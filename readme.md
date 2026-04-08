@@ -14,7 +14,7 @@ Set up a Python 3 environment (eg VScode). The python part of this project only 
 
 We're gonna get the data the dumb way.
 
-Go to any page on tubitv.com, scroll all the way to the bottom, open inspect element, then go to the <body> tag, right click and choose "copy outer HTML". Then, paste it into a code editor and save it as an HTML file.
+Go to any page on tubitv.com, scroll all the way to the bottom, open inspect element, then go to the body tag, right click and choose "copy outer HTML". Then, paste it into a code editor and save it as an HTML file.
 
 *Why do this and not press CTRL/CMD+S or CMD+U?* Because Tubi is a modern website with modern framework, and doesn't load all their divs when you do that.
 
