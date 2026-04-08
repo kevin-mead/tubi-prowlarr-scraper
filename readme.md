@@ -34,7 +34,7 @@ The CSV will go into the source folder for the Python and will be named with a t
 
 ## Done!
 
-You now have a bunch of data from Tubi and Prowlarr put together!
+You now have a bunch of data from Tubi and Prowlarr put together! See "example-output.csv" for an example of the resulting data.
 
 ## AI Use
 
